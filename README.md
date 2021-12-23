@@ -39,7 +39,7 @@ Follow these instructions below.
 
 You'll need to pass along some headers in order for the request to return the actual website HTML. At minimum you'll need to give your "User-Agent" and "Accept-Language" values in the request header.
 
-3. Head over to (http://myhttpheader.com) and replace your "User-Agent" and "Accept-Language" sections as I mentioned in the photo below. 
+3. Head over to [MyHTTPHeader](http://myhttpheader.com) and replace your **"User-Agent"** and **"Accept-Language"** sections as I mentioned in the photo below. 
 
 
 <p align="center">
@@ -61,11 +61,15 @@ If you use another email provider, just Google for your email provider e.g. "Gma
 
 Below are steps specific to users sending email from Gmail addresses.
 
-*Mke sure you've enabled less secure apps if you are sending from a Gmail account. (Refer to the video in the next lesson for steps).
+* Make sure you've enabled less secure apps if you are sending from a Gmail account.
 
-3. Try to go through the Gmail Captcha here while logged in to the Gmail account: https://accounts.google.com/DisplayUnlockCaptcha
-
-
+* Try to go through the Gmail Captcha here while logged in to the Gmail account: https://accounts.google.com/DisplayUnlockCaptcha
 
 
 Check out the link below for more details.
+
+# Documentations
+
+* [MyHTTPHeader](http://myhttpheader.com/)
+* [Smtplib Documentation](https://docs.python.org/3/library/smtplib.html)
+* [BeautifulSoup Module](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
